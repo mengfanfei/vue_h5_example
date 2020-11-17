@@ -1,17 +1,15 @@
 <template>
-  <div class="home">
-    <Button type="primary">按钮</Button>
+  <div class="qa">
+    123
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import { Button } from 'vant'
 
 export default defineComponent({
-  name: 'Home',
+  name: 'Qa',
   components: {
-    Button
   },
 });
 </script>
